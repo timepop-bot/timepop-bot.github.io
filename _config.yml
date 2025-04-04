@@ -1,1 +1,11 @@
+title: TimePop
+description: Curiosidades históricas que te sorprenderán
+baseurl: "" # No toques esto
+url: "https://timepop-bot.github.io" # Tu URL real
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
 
